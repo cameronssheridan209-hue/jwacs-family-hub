@@ -1,0 +1,10 @@
+# Local runtime / secrets — do not publish
+activity.json
+*.pyc
+__pycache__/
+
+# Debug screenshots
+debug-*.png
+
+# Local helper scripts (optional to keep out of Pages root clutter)
+# start-public.sh is fine to include for operators; leave tracked if desired
